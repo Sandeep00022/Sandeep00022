@@ -1,5 +1,5 @@
 
-Hi 👋 My name is sandeep yadav
+Hi 👋 My name is Sandeep Yadav
 ==============================
 
 Full Stack Web Development
@@ -7,7 +7,7 @@ Full Stack Web Development
 
 A Passionate Web Developer, Having Expertise in Java Script, MERN stack. I love to learn new things and build new web applications.
 
-*   🌍  I'm based in New Delhi,Delhi
+*   🌍  I'm based in New Delhi,India
 *   ✉️  You can contact me at [sy344942@gmail.com](mailto:sy344942@gmail.com)
 *   🧠  I'm learning Full Stack Web Development### Skills<p align="left">
                                 
